@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ogechilucy
-- 👀 I’m interested in SQL and Python 
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on Data analysis Projects
+- 👀 I’m interested in data and web dev 
 - 📫 How to reach me Linkedin.com/lucyihemeje
 
 <!---
